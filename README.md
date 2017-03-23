@@ -1,6 +1,6 @@
 # xclient_fpga
 
-THIS REPO IS UNDER CONSTRUCTION
+COMING SOON! 
 
 This repository will contain xaptum client examples:
 
